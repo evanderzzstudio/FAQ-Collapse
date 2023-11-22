@@ -37,5 +37,6 @@ h1 {
 
 .faq.active::before,
 .faq.active::after {
-    content: "Hello";
+    content: '\f075';
+    font-family: 'Font Awesome 5 Free';
 }
