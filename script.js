@@ -1,1 +1,1 @@
-const a = 10
+const toggles = document.querySelectorAll(".faq-toggle")
